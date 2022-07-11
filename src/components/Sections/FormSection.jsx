@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { BiSearch } from "react-icons/bi";
-// TODO: "add htmlFor for children and adults";
+
 const FormSection = () => {
   const [location, setLocation] = useState("");
 
