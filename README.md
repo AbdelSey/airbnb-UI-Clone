@@ -1,6 +1,6 @@
 # Airbnb UI Clone - LandDnD
 
-A responsive Airbnb Clone created with TailwindCSS and React. This website was created for non-mobile devices. 
+An Airbnb Clone created with TailwindCSS and React. This website is responsive on non-mobile devices.
 
 - Link to [LandDnD](https://gilded-babka-3128fe.netlify.app/)
 
